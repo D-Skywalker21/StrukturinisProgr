@@ -1,0 +1,3 @@
+C:/Users/s056908/Documents/StrukturinisProgr/1 programele/cmake-build-debug/CMakeFiles/1_programele.dir
+C:/Users/s056908/Documents/StrukturinisProgr/1 programele/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s056908/Documents/StrukturinisProgr/1 programele/cmake-build-debug/CMakeFiles/rebuild_cache.dir
