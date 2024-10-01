@@ -1,0 +1,3 @@
+C:/Strukturinis/valiutos skaiciuokle/cmake-build-debug/CMakeFiles/StrukturinisProgr.dir
+C:/Strukturinis/valiutos skaiciuokle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Strukturinis/valiutos skaiciuokle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
